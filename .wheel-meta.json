@@ -1,0 +1,19 @@
+{
+  "wheel_id": 342,
+  "structure": "umbrella",
+  "slug": "melbournewestkitchenrenovation-com-151",
+  "project": "kitchen-renovations-melbourne-west-229be3ce140b01eb9c59af452079",
+  "parent_t1_ref": "melbournewestkitchenrenovation.com-009",
+  "node_role": "buffer",
+  "money_target": "melbournewestkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne west",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-west-229be3ce140b01eb9c59af452079/",
+  "writeback_nonce": "3bfcc5438c638139",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/melbournewestkitchenrenovation.com-009/kitchen-renovations-melbourne-west.html",
+      "anchor": "kitchen renovations melbourne west",
+      "rel": "follow"
+    }
+  ]
+}
